@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jimmy
+## I'm a technical professional building a strong foundation in IT services. I have a keen interest in networking, sys admin, and security.
 
-<!--
-**tjapple/tjapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Focus
+* Building and documenting a full Active Directory lab (GPOs, DNS/DHCP, WSUS, NTFS/SMB)
+* Strengthening networking fundamentals acquired from my CCNA certification
+* Working through IT automation skills (PowerShell, Bash)
+* Developing Linux fundamentals
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+* IT
+  * Active Directory Lab
+ 
+* Web Apps
+  * [Boardgame Tracker Hub](https://github.com/tjapple/boardgame_tracker)
+  * Personal Blog
+  * [Scrapy Deal Finder](https://github.com/tjapple/bestbuy-laptop-scraper)
+
+### Certifications
+* [CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/EXB6ZBLLL7P00W0J)
+* [CompTIA A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/CN0X5P6Z7QPLHFX2)
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/jimmy-toner-5849b9138/)
