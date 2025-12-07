@@ -10,11 +10,11 @@
 
 ## 👨‍💻Projects
 * IT
-  * Active Directory Lab
+  * [Active Directory Lab](https://github.com/tjapple/active-directory-lab/tree/main)
  
 * Web Apps
   * [Boardgame Tracker Hub](https://github.com/tjapple/boardgame_tracker)
-  * Personal Blog
+  * [Personal Blog](https://github.com/tjapple/easy-blog)
   * [Scrapy Deal Finder](https://github.com/tjapple/bestbuy-laptop-scraper)
 
 ## 📃Certifications
