@@ -21,5 +21,13 @@
 * [CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/EXB6ZBLLL7P00W0J)
 * [CompTIA A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/CN0X5P6Z7QPLHFX2)
 
+## 🛠️ Skills
+* Tools: Wireshark, Cisco Packet Tracer, PowerShell, Python, Excel macros, SQL, pandas
+* Networking: VLANs, IPv4/IPv6 addressing, DNS, DHCP, NAT, ACLs, Routing, Switching, VPNs
+* Virtualization & Cloud: VirtualBox, Microsoft 365 (Outlook, Teams, OneDrive)
+* Operating Systems: Windows, Windows Server, Linux (WSL/Ubuntu), macOS, Cisco IOS XE
+* Hardware: PC assembly, diagnostics, component replacement, BIOS/UEFI configuration, dual-boot setups
+
+
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/jimmy-toner-5849b9138/)
