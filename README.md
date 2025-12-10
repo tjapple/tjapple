@@ -2,14 +2,13 @@
 #### I'm a technical professional building a strong foundation in IT services, with a keen interest in networking, sys admin, and security.
 
 ## 🤓 Current Focus
-* Building and documenting a full Active Directory lab (GPOs, DNS/DHCP, WSUS, NTFS/SMB)
-* Strengthening networking fundamentals acquired from my CCNA certification
-* Working through IT automation skills (PowerShell, Bash)
-* Developing Linux fundamentals
+* Building IT skills and documenting my progress
+* Implementing AI Tools to automate, troubleshoot, monitor, and reduce human error in network and system administration duties.
 
 
 ## 👨‍💻Projects
 * IT
+  * [Microsoft Cloud Administration Lab](https://github.com/tjapple/entra-admin-lab)
   * [Active Directory Lab](https://github.com/tjapple/active-directory-lab/tree/main)
  
 * Web Apps
